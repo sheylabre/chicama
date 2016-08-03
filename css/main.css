@@ -1,0 +1,40 @@
+.banner{
+	background-image: url(../img/grupal.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 760px;
+}
+
+.logo{
+	width: 455px;
+	margin: 8px 0px 0px 225px;
+}
+
+.boton{
+	margin-left: -70px;
+	margin-top: 72px;
+}
+
+a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.menu a{
+	float: right;
+	margin:50px 0px; 
+	padding: 0px 14px;
+}
+.grupal{
+	width: 310px;
+	margin-top: 15px;
+	margin-left: -10px;
+}
+
+footer {
+	background-color: #323230;
+	color: white;
+	width: auto;
+	padding: 20px 30px;
+}	
+
