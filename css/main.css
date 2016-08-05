@@ -1,3 +1,6 @@
+*{
+	 font-family: "Open Sans",sans-serif;
+}
 .banner{
 	background-image: url(../img/grupal.jpg);
 	background-repeat: no-repeat;
@@ -22,7 +25,7 @@ a{
 
 .menu a{
 	float: right;
-	margin:50px 0px; 
+	margin:50px 0px;
 	padding: 0px 14px;
 }
 .grupal{
@@ -36,5 +39,5 @@ footer {
 	color: white;
 	width: auto;
 	padding: 20px 30px;
-}	
+}
 
